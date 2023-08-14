@@ -1,0 +1,22 @@
+#reg{
+  display: flex;
+  height: 600px;
+  align-items: center;
+}
+#reg h2{
+  text-align: center;
+}
+.b1{
+  width: 180px;
+}
+#cat{
+  margin-top: 100px;
+}
+#movie{
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
+#movie img{
+  width: 17rem;
+  height: 20rem;
+}
